@@ -1,0 +1,9 @@
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\File Operations\bin\Debug\DataOperation.exe.config
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\File Operations\bin\Debug\DataOperation.exe
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\File Operations\bin\Debug\DataOperation.pdb
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\File Operations\obj\Debug\DataOperation.csprojAssemblyReference.cache
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\File Operations\obj\Debug\FileOperation.DataFile.resources
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\File Operations\obj\Debug\DataOperation.Properties.Resources.resources
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\File Operations\obj\Debug\DataOperation.csproj.GenerateResource.cache
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\File Operations\obj\Debug\DataOperation.exe
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\File Operations\obj\Debug\DataOperation.pdb

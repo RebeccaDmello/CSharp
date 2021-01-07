@@ -1,0 +1,35 @@
+D:\C Sharp\Labs\Assignment 2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\C Sharp\Labs\Assignment 2\Assignment2\bin\Debug\Assignment2.exe
+D:\C Sharp\Labs\Assignment 2\Assignment2\bin\Debug\Assignment2.pdb
+D:\C Sharp\Labs\Assignment 2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+D:\C Sharp\Labs\Assignment 2\Assignment2\obj\Debug\Assignment2.csis1175W2020Assign2.resources
+D:\C Sharp\Labs\Assignment 2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\C Sharp\Labs\Assignment 2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+D:\C Sharp\Labs\Assignment 2\Assignment2\obj\Debug\Assignment2.exe
+D:\C Sharp\Labs\Assignment 2\Assignment2\obj\Debug\Assignment2.pdb
+D:\CSharp\Labs\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\CSharp\Labs\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\CSharp\Labs\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\CSharp\Labs\Assignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+D:\CSharp\Labs\Assignment2\Assignment2\obj\Debug\Assignment2.csis1175W2020Assign2.resources
+D:\CSharp\Labs\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\CSharp\Labs\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+D:\CSharp\Labs\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\CSharp\Labs\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+D:\CSharp\Labs\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\Assignment2\bin\Debug\Assignment2.exe.config
+D:\CSharp\Labs\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\Assignment2\bin\Debug\Assignment2.exe
+D:\CSharp\Labs\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\Assignment2\bin\Debug\Assignment2.pdb
+D:\CSharp\Labs\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+D:\CSharp\Labs\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\Assignment2\obj\Debug\Assignment2.csis1175W2020Assign2.resources
+D:\CSharp\Labs\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\CSharp\Labs\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+D:\CSharp\Labs\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\Assignment2\obj\Debug\Assignment2.exe
+D:\CSharp\Labs\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\csis1175W2020Assign2_RebeccaMosesDmello(300322984)\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\Assignment 2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\Assignment 2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\Assignment 2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\Assignment 2\Assignment2\obj\Debug\FileOperation.DataFile.resources
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\Assignment 2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\Assignment 2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\Assignment 2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\Assignment 2\Assignment2\obj\Debug\Assignment2.pdb
