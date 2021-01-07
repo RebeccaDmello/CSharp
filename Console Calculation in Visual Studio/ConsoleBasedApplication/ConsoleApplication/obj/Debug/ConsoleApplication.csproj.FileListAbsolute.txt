@@ -1,0 +1,18 @@
+D:\C Sharp Assignments\Assignment 1\ConsoleBasedApplication\ConsoleApplicationRebecca\bin\Debug\ConsoleApplicationRebecca.exe.config
+D:\C Sharp Assignments\Assignment 1\ConsoleBasedApplication\ConsoleApplicationRebecca\bin\Debug\ConsoleApplicationRebecca.exe
+D:\C Sharp Assignments\Assignment 1\ConsoleBasedApplication\ConsoleApplicationRebecca\bin\Debug\ConsoleApplicationRebecca.pdb
+D:\C Sharp Assignments\Assignment 1\ConsoleBasedApplication\ConsoleApplicationRebecca\obj\Debug\ConsoleApplicationRebecca.csprojAssemblyReference.cache
+D:\C Sharp Assignments\Assignment 1\ConsoleBasedApplication\ConsoleApplicationRebecca\obj\Debug\ConsoleApplicationRebecca.exe
+D:\C Sharp Assignments\Assignment 1\ConsoleBasedApplication\ConsoleApplicationRebecca\obj\Debug\ConsoleApplicationRebecca.pdb
+I:\Douglas College\First Semester\CSharp\Labs\C Sharp Assignments\Assignment 1\ConsoleBasedApplication\ConsoleApplicationRebecca\bin\Debug\ConsoleApplicationRebecca.exe.config
+I:\Douglas College\First Semester\CSharp\Labs\C Sharp Assignments\Assignment 1\ConsoleBasedApplication\ConsoleApplicationRebecca\bin\Debug\ConsoleApplicationRebecca.exe
+I:\Douglas College\First Semester\CSharp\Labs\C Sharp Assignments\Assignment 1\ConsoleBasedApplication\ConsoleApplicationRebecca\bin\Debug\ConsoleApplicationRebecca.pdb
+I:\Douglas College\First Semester\CSharp\Labs\C Sharp Assignments\Assignment 1\ConsoleBasedApplication\ConsoleApplicationRebecca\obj\Debug\ConsoleApplicationRebecca.csprojAssemblyReference.cache
+I:\Douglas College\First Semester\CSharp\Labs\C Sharp Assignments\Assignment 1\ConsoleBasedApplication\ConsoleApplicationRebecca\obj\Debug\ConsoleApplicationRebecca.exe
+I:\Douglas College\First Semester\CSharp\Labs\C Sharp Assignments\Assignment 1\ConsoleBasedApplication\ConsoleApplicationRebecca\obj\Debug\ConsoleApplicationRebecca.pdb
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\Console Calculation in Visual Studio\ConsoleBasedApplication\ConsoleApplication\bin\Debug\ConsoleApplicationRebecca.exe.config
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\Console Calculation in Visual Studio\ConsoleBasedApplication\ConsoleApplication\bin\Debug\ConsoleApplicationRebecca.exe
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\Console Calculation in Visual Studio\ConsoleBasedApplication\ConsoleApplication\bin\Debug\ConsoleApplicationRebecca.pdb
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\Console Calculation in Visual Studio\ConsoleBasedApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\Console Calculation in Visual Studio\ConsoleBasedApplication\ConsoleApplication\obj\Debug\ConsoleApplicationRebecca.exe
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\Console Calculation in Visual Studio\ConsoleBasedApplication\ConsoleApplication\obj\Debug\ConsoleApplicationRebecca.pdb
