@@ -1,0 +1,24 @@
+D:\C Sharp\Assignment 1\ConsoleApplication\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\C Sharp\Assignment 1\ConsoleApplication\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\C Sharp\Assignment 1\ConsoleApplication\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\C Sharp\Assignment 1\ConsoleApplication\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\C Sharp\Assignment 1\ConsoleApplication\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\C Sharp\Assignment 1\ConsoleApplication\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\C Sharp\Labs\Assignment 1\ConsoleApplication\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\C Sharp\Labs\Assignment 1\ConsoleApplication\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\C Sharp\Labs\Assignment 1\ConsoleApplication\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\C Sharp\Labs\Assignment 1\ConsoleApplication\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\C Sharp\Labs\Assignment 1\ConsoleApplication\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\C Sharp\Labs\Assignment 1\ConsoleApplication\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\First Semester\CSharp\Labs\Assignment1\ConsoleApplication\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\First Semester\CSharp\Labs\Assignment1\ConsoleApplication\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\First Semester\CSharp\Labs\Assignment1\ConsoleApplication\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\First Semester\CSharp\Labs\Assignment1\ConsoleApplication\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\First Semester\CSharp\Labs\Assignment1\ConsoleApplication\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\First Semester\CSharp\Labs\Assignment1\ConsoleApplication\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\CSharpConsoleBasedApplication\ConsoleApplication\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\CSharpConsoleBasedApplication\ConsoleApplication\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\CSharpConsoleBasedApplication\ConsoleApplication\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\CSharpConsoleBasedApplication\ConsoleApplication\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\CSharpConsoleBasedApplication\ConsoleApplication\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\rebec\OneDrive\Desktop\GitHub\CSharp\CSharp\Labs\CSharpConsoleBasedApplication\ConsoleApplication\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
