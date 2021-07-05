@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\TicketsForm\TicketsForm\bin\Debug\TicketsForm.exe.config
+C:\Users\Administrator\Desktop\TicketsForm\TicketsForm\bin\Debug\TicketsForm.exe
+C:\Users\Administrator\Desktop\TicketsForm\TicketsForm\bin\Debug\TicketsForm.pdb
+C:\Users\Administrator\Desktop\TicketsForm\TicketsForm\obj\Debug\TicketsForm.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TicketsForm\TicketsForm\obj\Debug\TicketsForm.frmMain.resources
+C:\Users\Administrator\Desktop\TicketsForm\TicketsForm\obj\Debug\TicketsForm.frmOption.resources
+C:\Users\Administrator\Desktop\TicketsForm\TicketsForm\obj\Debug\TicketsForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TicketsForm\TicketsForm\obj\Debug\TicketsForm.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\TicketsForm\TicketsForm\obj\Debug\TicketsForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TicketsForm\TicketsForm\obj\Debug\TicketsForm.exe
+C:\Users\Administrator\Desktop\TicketsForm\TicketsForm\obj\Debug\TicketsForm.pdb
+D:\Semester 5\Advanced Object Oriented\Labs\Lab6\TicketsForm\TicketsForm\bin\Debug\TicketsForm.exe.config
+D:\Semester 5\Advanced Object Oriented\Labs\Lab6\TicketsForm\TicketsForm\bin\Debug\TicketsForm.exe
+D:\Semester 5\Advanced Object Oriented\Labs\Lab6\TicketsForm\TicketsForm\bin\Debug\TicketsForm.pdb
+D:\Semester 5\Advanced Object Oriented\Labs\Lab6\TicketsForm\TicketsForm\obj\Debug\TicketsForm.csprojAssemblyReference.cache
+D:\Semester 5\Advanced Object Oriented\Labs\Lab6\TicketsForm\TicketsForm\obj\Debug\TicketsForm.frmMain.resources
+D:\Semester 5\Advanced Object Oriented\Labs\Lab6\TicketsForm\TicketsForm\obj\Debug\TicketsForm.frmOption.resources
+D:\Semester 5\Advanced Object Oriented\Labs\Lab6\TicketsForm\TicketsForm\obj\Debug\TicketsForm.Properties.Resources.resources
+D:\Semester 5\Advanced Object Oriented\Labs\Lab6\TicketsForm\TicketsForm\obj\Debug\TicketsForm.csproj.GenerateResource.cache
+D:\Semester 5\Advanced Object Oriented\Labs\Lab6\TicketsForm\TicketsForm\obj\Debug\TicketsForm.csproj.CoreCompileInputs.cache
+D:\Semester 5\Advanced Object Oriented\Labs\Lab6\TicketsForm\TicketsForm\obj\Debug\TicketsForm.exe
+D:\Semester 5\Advanced Object Oriented\Labs\Lab6\TicketsForm\TicketsForm\obj\Debug\TicketsForm.pdb
