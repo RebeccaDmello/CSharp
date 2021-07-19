@@ -1,0 +1,32 @@
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.exe
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.deps.json
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.runtimeconfig.json
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.runtimeconfig.dev.json
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.dll
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.pdb
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csprojAssemblyReference.cache
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmInvMaint.resources
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmNewItem.resources
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.GenerateResource.cache
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.CoreCompileInputs.cache
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfoInputs.cache
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfo.cs
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.dll
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.pdb
+E:\DEVELOPMENT\InventoryMaintenance(1)\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.genruntimeconfig.cache
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.exe
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.deps.json
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.runtimeconfig.json
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.runtimeconfig.dev.json
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.dll
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\bin\Debug\netcoreapp3.1\InventoryMaintenance.pdb
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csprojAssemblyReference.cache
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmInvMaint.resources
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmNewItem.resources
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.GenerateResource.cache
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfoInputs.cache
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfo.cs
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.CoreCompileInputs.cache
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.dll
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.pdb
+D:\Semester 5\Advanced Object Oriented\Labs\Lab7\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.genruntimeconfig.cache

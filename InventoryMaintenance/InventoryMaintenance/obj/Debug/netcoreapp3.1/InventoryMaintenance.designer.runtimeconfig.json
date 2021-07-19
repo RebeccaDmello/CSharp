@@ -1,0 +1,16 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp3.1",
+    "framework": {
+      "name": "Microsoft.WindowsDesktop.App",
+      "version": "3.1.0"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\Rebecca Moses Dmello\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rebecca Moses Dmello\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
