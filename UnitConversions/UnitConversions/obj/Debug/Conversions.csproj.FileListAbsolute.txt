@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Conversions\Conversions\bin\Debug\Conversions.exe.config
+C:\Users\Administrator\Desktop\Conversions\Conversions\bin\Debug\Conversions.exe
+C:\Users\Administrator\Desktop\Conversions\Conversions\bin\Debug\Conversions.pdb
+C:\Users\Administrator\Desktop\Conversions\Conversions\obj\Debug\Conversions.FrmAddConversion.resources
+C:\Users\Administrator\Desktop\Conversions\Conversions\obj\Debug\Conversions.FrmConversions.resources
+C:\Users\Administrator\Desktop\Conversions\Conversions\obj\Debug\Conversions.FrmManageConversions.resources
+C:\Users\Administrator\Desktop\Conversions\Conversions\obj\Debug\Conversions.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Conversions\Conversions\obj\Debug\Conversions.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Conversions\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Conversions\Conversions\obj\Debug\Conversions.exe
+C:\Users\Administrator\Desktop\Conversions\Conversions\obj\Debug\Conversions.pdb
+C:\Users\Administrator\Desktop\Conversions\Conversions\obj\Debug\Conversions.csproj.AssemblyReference.cache
